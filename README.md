@@ -1,6 +1,6 @@
 # Dynamic To Do List Using JavaScript
 
-![intro](./images/into.png)
+![intro](./images/intro.png)
 
 
 ## Purpose & Scope
@@ -18,7 +18,7 @@
 
 ## Output
 
-![output](./images/output.png)
+![output](./images/output.PNG)
 
 
 ### Personal Note
