@@ -14,11 +14,21 @@
 
 ## Getting Started
 
-* You can download the repository and run on it on your browser or click on the index.html file.
+* You can download the repository and run on it on your browser.
+* Add new items to do the list in the input box and click to add or press enter.
+* Once it's open, you can easily delete items from the to do list by clicking on the delete buttons next to next items.
+* You can also cross out items you've completed by clicking on that specific item.
 
-## Output
+## Preview
 
+- View when index.html is first opened
 ![output](./images/output.PNG)
+
+- Example of when you click on an item you've completed to crossout the respective task.
+![output1](./images/output_2.PNG)
+
+- After you delete an item using the delete button.
+![output2](./images/output_3.PNG)
 
 
 ### Personal Note
